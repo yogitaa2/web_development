@@ -20,7 +20,7 @@
 <li>Elegent typography & Layout.</li>
 </ul>
 <i><b><h3>How to View</h3></b></i>
-<strong><h3>project 1:- </strong></h3>
+<strong><h3>project 1:-https://yogitaa2.github.io/web_development.github.io/project%201/</strong></h3>
 <strong><h3>project 2:- </strong></h3>
 <p>feel free to provide feedback!</p>
 <strong><h2>Future Plans</h2></strong>
