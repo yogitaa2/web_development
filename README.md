@@ -19,11 +19,6 @@
 <li>Sections for About & Work.</li>
 <li>Elegent typography & Layout.</li>
 </ul>
-<strong><h2>How to View</h2></strong>
-<p>To view the project,simply clone the repository and open the index.html file in your preferred web browser.</p>
-<strong><li>project 1: https://yogitaa2.github.io/web_development.github.io/project%201/index.html</li></strong>
-<strong><li>project 2: https://yogitaa2.github.io/web_development.github.io/project%202/index.html</li></strong>
-<p>feel free to explore & provide feedback!</p>
 <strong><h2>Future Plans</h2></strong>
 <ul type="circle">
 <li>[ ]Enhance the Dental Care Landing Page with interactive elements using JavaScript</li>
