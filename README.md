@@ -19,6 +19,10 @@
 <li>Sections for About & Work.</li>
 <li>Elegent typography & Layout.</li>
 </ul>
+<i><b><h3>How to View</h3></b></i>
+<strong><h3>project 1:- </strong></h3>
+<strong><h3>project 2:- </strong></h3>
+<p>feel free to provide feedback!</p>
 <strong><h2>Future Plans</h2></strong>
 <ul type="circle">
 <li>[ ]Enhance the Dental Care Landing Page with interactive elements using JavaScript</li>
